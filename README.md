@@ -1,5 +1,5 @@
 # Restaurant.com-AutoComplete-JS
-Description: Restaurant.com data into an AutoComplete styled div containing participating restaurant names that are a part of the restaurant.com catalog. Includes a live example of AutoComplete input and Json output.
+Description: Poll Restaurant.com data into an AutoComplete styled div containing participating restaurant names that are a part of the restaurant.com catalog. Includes a live example of AutoComplete input and Json output.
 
 Technical: JS/Jquery based XHR request to Restaurant.com requesting search results based on the real-time search results returned by the autocomplete on the homepage. Simply add and reference the JS file to pull results on your application.
 
